@@ -2,12 +2,15 @@
 Machine Learning Engineer | ML Systems • Time-Series • Reliability
 
 <p align="left">
+ 
   <a href="https://github.com/Mihirmaru22"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/mihir-maru"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mihirmaru090@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+ <a href="https://pypi.org/project/blackice/"><img src="https://img.shields.io/pypi/v/blackice?style=flat&logo=pypi&logoColor=white" /></a>
 </p>
 
 <p align="left">
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
